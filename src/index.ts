@@ -7,3 +7,4 @@ const playlistDownload = new Playlist(
 );
 
 playlistDownload.startPlaylistDownload();
+yarn && yarn dev
